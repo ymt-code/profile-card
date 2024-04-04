@@ -8,6 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #212121;
+    height: 100vh;
 }
 .container{
     width: 350px;
